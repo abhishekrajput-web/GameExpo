@@ -1,5 +1,5 @@
 #  Game Website
-<h1 style="font-size:20px">Responsive game-website using bootstrap 5 with dark mode</h1>
+<h1 style="font-size:20px">Responsive game-website using bootstrap 5 with dark mode </h1>
 <p><a href="https://abhishekrajput-web.github.io/game-website/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
