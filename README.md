@@ -1,6 +1,6 @@
 #  Game Application (GameExpo)
 <h1 style="font-size:20px">Responsive Game Application Using Bootstrap 5 With Dark Mode </h1>
-<p><a href="https://abhishekrajput-web.github.io/game-website/">View The Live Website Deployment </a></p>
+<p><a href="https://responsive-game-website.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/1681b26c-1023-40e6-a931-afdcf73d33b3
 </div>
 
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/game-website.git">https://github.com/abhishekrajput-web/game-website</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/GameExpo.git">https://github.com/abhishekrajput-web/GameExpo</a></p>
 
 
 <h2 style="margin-top:20px;font-size:20px">Assests and images sources</h2>
